@@ -58,6 +58,8 @@
 - 只是编程人员约定的变量名字，args 是 arguments 的缩写，表示位置参数；kwargs 是 keyword arguments 的缩写，表示关键字参数。这其实就是 Python 中可变参数的两种形式，并且 *args 必须放在 **kwargs 的前面，因为位置参数在关键字参数的前面。 总结来说：就是你可以将不定数量、不定长度、不定类型（可以是键值和非键值）的参数传递过来。
 7. Python中import, from...import,import...as的区别
 - import直接导入是模块，也就是.py格式，from 模块import 函数，导入是模块里面的类
+8. python界面开发工具wxpython直接看代码太吃力，应该如何学习？
+- https://www.yiibai.com/wxpython/ 这里有教程，按照这个先做一边，能够实现各个功能之后再去理解大神的代码。
 
 
 
